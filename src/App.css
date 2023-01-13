@@ -9,7 +9,7 @@ body {
   min-height: 100vh;
   background-image: url("./Images/img1.jpg");
   background-repeat: no-repeat;
-  background-size: 1400px;
+  background-size: 100%;
 }
 
 .app-container {
